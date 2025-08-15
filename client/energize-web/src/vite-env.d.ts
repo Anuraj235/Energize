@@ -1,4 +1,1 @@
-
-
-//uguygufgrugr4/// <reference types="vite/client" />
-//jihuhgughuhu
+/// <reference types="vite/client" />
